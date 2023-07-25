@@ -36,6 +36,7 @@
 - `git clone <remote url>`
     
     - 원격 저장소에 있는 레포를 현재 폴더에 복제
+    - 작업해야 할 문서가 아직 없을 시 git bash terminal을 이용하여 입력
 
 
 
