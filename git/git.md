@@ -31,3 +31,47 @@
     - `git remote add origin <remote url>`
     - remote 저장소 주소를 추가하는 명령어
 
+# 2023-07-25
+
+- `git clone <remote url>`
+    
+    - 원격 저장소에 있는 레포를 현재 폴더에 복제
+
+
+
+
+- `git pull origin master`
+
+    - 원격 저장소에 마지막 코드 상태를 다운로드
+
+
+
+### branch 관련
+
+- `git branch`
+
+    - branch의 위치를 확인
+
+
+
+- `git branch -c` 
+
+    - branch 생성
+
+
+
+- `git branch switch ~~`
+
+
+    - ~~로 이동
+
+
+
+- `git push origin master ~~`
+   
+   - master로 push
+
+
+
+그 후 pull request 기능과 fork 기능으로 기여하는 것에 대해 배움
+

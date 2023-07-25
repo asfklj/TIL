@@ -83,7 +83,7 @@ git branch
 
 
 ```shell
-git branch -c ~~~
+git branch -c 
 ```
 
 - branch 생성
@@ -91,15 +91,15 @@ git branch -c ~~~
 
 
 ```shell
-git branch switch ~~~
+git branch switch ___
 ```
 
-- ~~~로 이동
+- ___로 이동
 
 
 
 ```shell
-git push origin master ~~~
+git push origin master ___
 ```
 
 - master로 push
