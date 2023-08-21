@@ -1,0 +1,50 @@
+h3 {
+    color: green;
+    background-color: aqua;
+}
+
+/*  전체 */
+p {
+    color: pink;
+    font-family: 'Barriecito';
+}
+/*  id 선택자 */
+#here {
+    color: gold;
+    background-image: url('https://picsum.photos/200/300');
+}
+/*  클래스 선택자 */
+.hello {
+    color: purple
+}
+
+p.center {
+    text-align: center;
+}
+
+p#size{
+    font-size: 50px;
+}
+
+ul.english > li {
+    color: royalblue;
+}
+
+ul.korean > li {
+    /* color: rgb(0, 123, 123); */
+    color: #ff1100;
+}
+
+.korean {
+    /* border-width: 2px;
+    border-style: dashed;
+    border-color: bisque;  */
+    border: 2px dashed bisque;
+    border-radius: 20px;
+}
+
+.english {
+    /* margin-top: 50px; */
+    margin: 25px 50px 75px 100px
+
+}
